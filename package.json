@@ -1,0 +1,20 @@
+{
+  "name": "express-sql-api",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000e\u0000x\u0000p\u0000r\u0000e\u0000s\u0000s\u0000-\u0000s\u0000q\u0000l\u0000-\u0000a\u0000p\u0000i\u0000\r\u0000 \u0000",
+  "homepage": "https://github.com/sefali-dash/express-sql-api#readme",
+  "bugs": {
+    "url": "https://github.com/sefali-dash/express-sql-api/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sefali-dash/express-sql-api.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
